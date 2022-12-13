@@ -1,4 +1,4 @@
-# NLP_finalproject
+# Squad Question answering Project
 # Question Answering in Squad 2.0
 Natural language processing tasks such as machine reading comprehension and question-answering are crucial. Due to their outstanding performance in a variety of NLP tasks, Pre-trained Contextual Embeddings (PCE) models like Embeddings from Language Models (ELMo) and Bidirectional Encoder Representations from Transformers (BERT) have recently received a lot of attention. In this study, we adopted the various model and worked to improve its performance on the Stanford Question Answering Dataset (SQuAD 2.0). We carefully evaluated the performance of a number of output designs in comparison to all the models. 
 ## What is Question Answering?
